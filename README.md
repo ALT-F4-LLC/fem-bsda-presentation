@@ -1,2 +1,2 @@
-# fem-bsd-presentation
-Presentation from Backend Systems Design on Frontend Masters.
+# fem-bsda-presentation
+Presentation from "Backend Systems Design: Architecture" on Frontend Masters.
