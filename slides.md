@@ -12,7 +12,7 @@ section {
 }
 </style>
 
-# Backend Systems Design: Architecture
+# Introduction to Backend Architectures
 
 Learn about **architectural** backend design principles, challenges, real-world applications, while offering a detailed understanding of when and how to implement them.
 
@@ -51,7 +51,7 @@ Find me online:
 
 # Introduction to Teacher
 
-## Expierence Paths
+## Experience Paths
 
 - Started with frontend (2+ years)
 - Followed curiosity to backend (2+ years)
